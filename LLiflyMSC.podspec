@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "LLiflyMSC"
-  s.version          = "20160310"
+  s.version          = "20160927"
   s.summary          = "科大讯飞 iOS 语音 SDK"
   s.description      = <<-DESC
     科大讯飞 iOS 语音 SDK, 包含了语音听写、语音识别、语音 合成、语义理解, 语音唤醒, 人脸识别等相关功能。

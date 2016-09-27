@@ -1,3 +1,11 @@
+//
+//  IFlyMSC.h
+//  msc
+//
+//  Created by 张剑 on 15/1/14.
+//  Copyright (c) 2015年 iflytek. All rights reserved.
+//
+
 #ifndef MSC_IFlyMSC_h
 #define MSC_IFlyMSC_h
 
@@ -24,6 +32,8 @@
 #import "IFlyTextUnderstander.h"
 #import "IFlyUserWords.h"
 #import "IFlyPcmRecorder.h"
+#import "IFlySpeechEvaluator.h"
+#import "IFlySpeechEvaluatorDelegate.h"
 
 
 #endif
